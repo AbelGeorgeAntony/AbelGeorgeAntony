@@ -1,31 +1,23 @@
-# Abel George Antony
+# 💫 About Me:
+I'm currently on my personal CLI applications.<br>
 
-Hi there! I'm Abel George Antony, and I'm passionate about building efficient and user-friendly command-line tools using C++. From automating tasks to creating interactive applications, I find joy in bringing these tools to life in the terminal.
 
-While I'm still expanding my programming horizons, I'm always eager to learn and collaborate. Whether you're a seasoned developer or just starting out, I'm open to connecting and building cool things together!
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abelgeorgeantony) 
 
-**My Skills:**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abelgeorgeantony&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abelgeorgeantony&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abelgeorgeantony&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-* C++: My go-to language for building performant and reliable CLI applications.
-* 
-* Basic Data Structures & Algorithms: Building the foundations of my projects with solid code logic.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abelgeorgeantony&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-**My Portfolio:**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-* 
-* 
-* 
+---
+[![](https://visitcount.itsvg.in/api?id=abelgeorgeantony&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Collaboration Opportunities:**
-
-* Mentoring: Sharing my knowledge and inspiring the next generation of CLI enthusiasts.
-* Learning: Collaborating with experienced developers and contributing to open-source projects.
-* Building Together: Partnering on interesting projects that leverage our combined skills and interests.
-
-**Connect with me!**
-
-I'm always happy to chat about CLI tools, C++, or anything else related to programming. You can find me on GitHub (username: [your_github_username]) or send me an email at [your_email_address].
-
-**Remember, this is just the beginning of my programming journey. Feel free to customize this README to reflect your unique skills and aspirations!**
-
-**[Optional: Add links to your projects or other relevant platforms]**
