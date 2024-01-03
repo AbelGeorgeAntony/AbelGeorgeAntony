@@ -7,14 +7,14 @@ While I'm still expanding my programming horizons, I'm always eager to learn and
 **My Skills:**
 
 * C++: My go-to language for building performant and reliable CLI applications.
-* Shell Scripting: Automating tasks and adding functionality to my tools.
+* 
 * Basic Data Structures & Algorithms: Building the foundations of my projects with solid code logic.
 
 **My Portfolio:**
 
-* Text Adventure Game: Explore a captivating narrative and make impactful choices in this classic text-based adventure.
-* File Crawler: Search and locate files with ease within any directory structure.
-* ASCII Art Generator: Transform text into visually appealing art, one pixel at a time.
+* 
+* 
+* 
 
 **Collaboration Opportunities:**
 
